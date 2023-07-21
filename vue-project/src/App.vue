@@ -3,7 +3,7 @@
     <img src="./assets/logo.svg" width="50" />
     <div class="brand">Todo List App</div>
   </nav>
-
+  
   <main class="container">
     <section>
       <form class="add-todo-form">
