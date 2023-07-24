@@ -14,6 +14,22 @@
 
 
       </form>
+      <form class="add-todo-form">
+        <input type="text" placeholder="Todo Title" />
+  <div>
+    <button style="background: var(--accent-color); color: black;">Add Todo</button>
+  </div>
+
+
+      </form>
+      <form class="add-todo-form">
+        <input type="text" placeholder="Todo Title" />
+  <div>
+    <button style="background: var(--accent-color); color: black;">Add Todo</button>
+  </div>
+
+
+      </form>
     </section>
 
     <section>
