@@ -4,9 +4,11 @@
 
 
 :root {
-  --background-color: #23272E;
-  --text-color: #000; /* Color negro para el texto */
-  --accent-color: #00b894; /* Un verde más suave */
+    --background-color: #23272E;
+      --text-color: #FFF;
+      --navbar-color: #15181C;
+      --accent-color: #41B883;
+      --danger-color: #E06C75;
 }
 
 

@@ -3,32 +3,14 @@
     <img src="./assets/logo.svg" width="50" />
     <div class="brand">Todo List App</div>
   </nav>
-  
+
   <main class="container">
     <section>
       <form class="add-todo-form">
         <input type="text" placeholder="Todo Title" />
-  <div>
-    <button style="background: var(--accent-color); color: black;">Add Todo</button>
-  </div>
-
-
-      </form>
-      <form class="add-todo-form">
-        <input type="text" placeholder="Todo Title" />
-  <div>
-    <button style="background: var(--accent-color); color: black;">Add Todo</button>
-  </div>
-
-
-      </form>
-      <form class="add-todo-form">
-        <input type="text" placeholder="Todo Title" />
-  <div>
-    <button style="background: var(--accent-color); color: black;">Add Todo</button>
-  </div>
-
-
+        <div>
+          <button>Add Todo</button>
+        </div>
       </form>
     </section>
 
